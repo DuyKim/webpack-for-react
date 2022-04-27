@@ -1,0 +1,24 @@
+{
+  "name": "webpack-for-react",
+  "version": "1.0.0",
+  "description": "use webpack with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuyKim/webpack-for-react.git"
+  },
+  "keywords": [
+    "webpack",
+    "react18",
+    "babel"
+  ],
+  "author": "Duy Kim <duykim.freedom@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuyKim/webpack-for-react/issues"
+  },
+  "homepage": "https://github.com/DuyKim/webpack-for-react#readme"
+}
